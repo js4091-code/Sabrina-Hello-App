@@ -1,10 +1,4 @@
 import streamlit as st
-
-st.write("ISOM5240")
-st.write("ISOM5240")
-
-
-import streamlit as st
 from transformers import pipeline
 
 # Load the text classification model pipeline
